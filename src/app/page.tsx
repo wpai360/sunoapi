@@ -136,18 +136,7 @@ For more detailed documentation, please check out the demo site:
 
       </Section>
       <Section className="my-10">
-        <article className="prose lg:prose-lg max-w-3xl">
-          <Markdown>
-            {markdown}
-          </Markdown>
-          <video controls width="1024" className="w-full border rounded-lg shadow-xl">
-            <source src="/get-cookie-demo.mp4" type="video/mp4" />
-            Your browser does not support frames.
-          </video>
-          <Markdown>
-            {markdown_part2}
-          </Markdown>
-        </article>
+        <h1>This is the Suno Songs API</h1>
       </Section>
 
 
